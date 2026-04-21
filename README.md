@@ -1,3 +1,13 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/Tool-Nmap-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0089D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Windows%20Server%202022-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Category-Network%20Security-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-SOC%20Analysis-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-red?style=for-the-badge" />
+</p>
+
+
 Advanced-Nmap-Recon-Azure:
    Deep‑dive Nmap reconnaissance against an Azure-hosted Windows Server 2022 VM. This project includes service/version detection, aggressive scanning, full 1–65535 port sweep, SSL/NTLM enumeration, and cloud OS fingerprint analysis. Findings are mapped to MITRE ATT&CK and interpreted from a SOC analyst perspective.
 
